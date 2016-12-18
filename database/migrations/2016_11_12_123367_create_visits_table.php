@@ -31,6 +31,9 @@ class CreateVisitsTable extends Migration
             $table->float('visit_price')->nullable();
 
             $table->float('visit_paid')->nullable();
+            
+            $table->date('discount')->nullable();
+
 
             $table->date('visit_date')->nullable();
 
