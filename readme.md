@@ -1,4 +1,4 @@
-# Taiba-Clinics
+# TaibaClinic
 by Laravel PHP Framework
 
 ![alt tag](https://raw.githubusercontent.com/obaaa/Taiba-Clinics/master/public/assets/img/clinic.png). 
